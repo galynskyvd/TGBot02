@@ -1,0 +1,26 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galynskyvd/chat-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galynskyvd/chat-bot/issues"
+  },
+  "homepage": "https://github.com/galynskyvd/chat-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "node-telegram-bot-api": "^0.30.0",
+    "npm": "^5.7.1"
+  }
+}
